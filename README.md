@@ -4,20 +4,25 @@
 
 # Our Mission
 
-> Making ultrasound acquisition more accessible through user-friendly,
-> open systems.
+> Making ultrasound acquisition more accessible through open,
+> user-friendly systems.
 
-- We develop wearable, battery-powered acquisition systems, portable USB-powered
-platforms, and open software for ultrasound.
+We develop open, research-grade ultrasound acquisition technology, combining
+compact, resource-efficient hardware with the software needed to operate it. Our goal is to
+build robust, feature-rich instruments that are affordable and practical to reproduce.
 
-- Our work serves both academia and
-industry, from researchers to R&D engineers.
+Our systems are designed for:
+
+- **Researchers**, with the openness and capabilities needed for experimental work
+- **Industrial R&D engineers**, with standard interfaces for transducers and data links
+- **Hobbyists and makers**, with extensive documentation and low reproduction costs
+- **Students and educators**, with a fully open development flow for learning and teaching
 
 ## Our Approach
 
 - The complete development process is open, from initial concepts to finished designs
 - Open-source tools wherever possible for PCB design, firmware, and software
-- Close feedback loop with the community, interdisciplinary collaborations
+- Active community engagement and interdisciplinary collaborations
 
 ## Our Designs
 
