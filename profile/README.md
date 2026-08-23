@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/logo_raw_echoes.png" alt="Raw Echoes logo">
+  <img src="../images/logo_raw_echoes.png" alt="Raw Echoes logo">
 </p>
 
 # Our Mission
